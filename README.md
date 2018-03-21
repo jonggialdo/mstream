@@ -15,7 +15,7 @@ mStream menggunakan nodejs sebagai platformnya. Nodejs bekerja sebagai server / 
 
 # Instalasi
 
-#### Prasyarat Sebelum Memasang mStream
+#### Kebutuhan Sistem Sebelum Memasang mStream
 
 - Menginstall Ubuntu Server di virtual box dengan konfigurasi seperti berikut pada tab network:
 ![](https://i.imgur.com/RJHf9Vg.png)
