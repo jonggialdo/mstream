@@ -1,7 +1,14 @@
 
 # Aplikasi Streaming Musik : mStream
-![logo](http://www.mstream.io/img/logos/mstream-logo.png)
+
+
+<h5 align="center"><img src="http://www.mstream.io/img/logos/mstream-logo.png"</h5>
+
 ![enter image description here](https://github.com/IrosTheBeggar/mStream/raw/master/public/img/devices2.png?raw=true)
+
+[Deskripsi](#deskripsi-mstream) | [Instalasi](#instalasi) | [Referensi](#referensi) 
+:---:|:---:|:---:
+
 ## Deskripsi mStream
 mStream adalah layanan server streaming personal. mStream memungkinkan seseorang untuk men-streaming lagu dari server miliknya, seperti komputer rumah ke semua device, dimana saja.
 mStream menggunakan nodejs sebagai platformnya. Nodejs bekerja sebagai server / backend layaknya Apache/Nginx/.Net, dll.
